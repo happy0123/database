@@ -19,7 +19,7 @@ Date          Author              Version          Modification
 #ifndef _UTF8_
 #define _UTF8_
 #endif
-#include "../comm/CharConvert.h"
+#include "../common/CharConvert.h"
 
 #endif
 
